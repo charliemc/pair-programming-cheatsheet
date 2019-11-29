@@ -29,8 +29,6 @@ Unless you already know what works best for you, try the Pomodoro Technique:
 - Take a 5 minute break.
 - Switch drivers.
 
-**Don’t forget:** Pair programming is a skill which must be learned. Consider reflecting with your pair or asking for feedback after each session. _What could have been better?_
-
 ## Driver/Navigator
 
 Probably the most common type of pairing.
