@@ -31,6 +31,8 @@ Don’t forget:
 - Take lots of breaks.
 - Swap roles frequently.
 
+Pair programming is a skill which must be learned. Consider reflecting with your pair or asking for feedback after each session. _What could have been better?_
+
 ## Driver/Navigator
 
 Probably the most common type of pairing.
@@ -39,14 +41,11 @@ The **driver** types the code and stays focused on the current task.
 
 The **navigator** thinks ahead, ponders edge cases, spots bugs, suggests refactorings, asks good questions, stays zoomed out.
 
-Don't forget to switch roles regularly.
-
 ### Driver
 
 - Unless you’re sure your pair is keeping up, don’t manipulate code quite as fast as you’re able.
 - If you get the sense that your pair’s attention is drifting, stop and sync up.
 - Ask good questions: _"Which part of this is hardest to follow?”_ vs bad questions: _“You understand this, right?”_
-- Sit so that the monitor is between the two of you. Make sure both of you can see it equally well (consider bumping up font sizes).
 - If your navigator is making a suggestion, consider taking your hands off the keyboard. Even better: turn and make eye contact.
 
 ### Navigator
@@ -54,11 +53,3 @@ Don't forget to switch roles regularly.
 - Give your driver a chance to notice their own syntax errors and typos.
 - If you have a suggestion for the driver, communicate it at the highest level of abstraction they’ll understand.
 - If you find yourself dictating code (or worse, individual keystrokes), stop and see if you can communicate your idea at a higher level.
-- Bring your own keyboard to every pairing session. Plug it in before you start.
-
-### Both (Driver & Navigator)
-
-- Before you start pairing, disable all notifications (on your computer and phone).
-- Don’t leave your email open on another monitor.
-- Swapping drivers is a great way to energize a pairing session that’s losing steam. Consider setting a timer to indicate every time it’s time to switch.
-- Pair programming is a skill which must be learned. Consider reflecting with your pair or asking for feedback after each session. What could have been better?
