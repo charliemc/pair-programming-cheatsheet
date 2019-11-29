@@ -17,21 +17,19 @@ The content of this cheatsheet was gathered and distilled from the **awesome** [
 
 ## Work
 
-Unless you already know what works best for you, try the Pomodoro Technique:
-
-- Code for 25 minutes.
-- Take a 5 minute break.
-- Switch drivers.
-
-Don’t forget:
-
 - **Pairing should involve constant two-way communication.**
 - When navigating: ask questions rather than making demands.
 - When driving: dictate what you’re doing and why.
 - Take lots of breaks.
 - Swap roles frequently.
 
-Pair programming is a skill which must be learned. Consider reflecting with your pair or asking for feedback after each session. _What could have been better?_
+Unless you already know what works best for you, try the Pomodoro Technique:
+
+- Code for 25 minutes.
+- Take a 5 minute break.
+- Switch drivers.
+
+**Don’t forget:** Pair programming is a skill which must be learned. Consider reflecting with your pair or asking for feedback after each session. _What could have been better?_
 
 ## Driver/Navigator
 
