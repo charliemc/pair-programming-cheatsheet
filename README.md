@@ -9,7 +9,7 @@ The content of this cheatsheet was gathered and distilled from the **awesome** [
 - Bump up the text size a little.
 - Use an editor/IDE that you both know reasonably well.
 
-## Eliminate distractions
+## Eliminate distractions
 
 - Don’t bring your phone. Silence it if you do.
 - Disable notifications on the machine you’re using to pair.
