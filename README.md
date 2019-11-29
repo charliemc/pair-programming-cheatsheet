@@ -6,8 +6,8 @@ The content of this cheatsheet was gathered and distilled from the **awesome** [
 
 - Sit directly next to each other, with the monitor equidistant between you.
 - Plug in one keyboard per person.
-- Bump up the text size a little.
 - Use an editor/IDE that you both know reasonably well.
+- Bump up the text size a little.
 
 ## Eliminate distractions
 
@@ -53,3 +53,19 @@ The **navigator** thinks ahead, ponders edge cases, spots bugs, suggests refacto
 - Give your driver a chance to notice their own syntax errors and typos.
 - If you have a suggestion for the driver, communicate it at the highest level of abstraction they’ll understand.
 - If you find yourself dictating code (or worse, individual keystrokes), stop and see if you can communicate your idea at a higher level.
+
+## Perform a mini retro
+
+Spend a few minutes after your session reflecting on the experience.
+
+First, discuss what went well.
+
+Then, consider what would make the next session 1% better.
+
+Possible areas for improvement:
+
+- **Focus**: did distractions sneak in?
+- **Communication**: were there long stretches of no talking?
+- **Pacing**: did the session feel like a grind at any point?
+- **Division of responsibility**: did you split the work up well?
+- **Code quality**: was your end-product high-quality?
